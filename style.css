@@ -1,0 +1,31 @@
+body{
+    font-style: italic;
+    font-size: large;
+}
+box{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 20px solid transparent;
+
+    border-image: url(border.jpg) 30 round;
+}
+body{
+    background-color: #B6FBF5;
+   color:#453A0D;
+   text-align: center;
+   margin-top: 100px;
+   font-size: larger;
+   font-weight: bolder;
+}
+h1{
+    font-size: larger bold;
+}
+table{
+    background-color: #B8D6D1;
+}
+th{
+    background-color:#B8D6D1;
+    color: #000202;
+}
+
